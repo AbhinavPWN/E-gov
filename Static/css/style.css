@@ -17,13 +17,13 @@ header{
 }
 .top-header .contact-info li:first-child{
 	float: right;
-}	
+}
 .bottom-header{
-	
+
 	height: 50px;
 }
 .bottom-header{
-	
+
 	padding-bottom: 75px;
 }
 .bottom-header button{
@@ -60,9 +60,9 @@ header{
 	opacity: 0.5;
 	width: 50%;
 	font-size: 20px;
-} 
+}
 .news h4{
-	
+
 	background-color: #00395d;
 	width: 100%;
 	padding: 5px;
@@ -167,7 +167,7 @@ body{
 	 color:#fff;
 
  }
- .top-footer li{ 
+ .top-footer li{
 	padding-bottom: 7px;
  }
  .top-footer .links a{
@@ -224,9 +224,9 @@ body{
 	bottom: 0;
 	width: 100%;
 	margin-top: auto;
-	height: 2.5rem; 
+	height: 2.5rem;
 }
-/* 
+/*
 #page-container {
 	position: relative;
 	min-height: 550vh;
